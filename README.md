@@ -1,4 +1,4 @@
-<h1>Hi, I'm Tiffini!  <a href="https://www.linkedin.com/in/tiffiniffit/">Application Support Analyst</a>
+<h1>Hi, I'm Tiffini!  <a href="https://www.linkedin.com/in/tiffinib/">Application Support Analyst</a>
 
 <h2> 👩🏾‍💻 Cybersecurity Projects:</h2>
 
