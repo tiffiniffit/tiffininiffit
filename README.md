@@ -3,7 +3,7 @@
 <h2> 👩🏾‍💻 Cybersecurity Projects:</h2>
 
 - <b>SEIM Practice</b>
-  - [Analyzing attacks on a honeypot via Microsoft Sentinel](https://github.com/tiffiniffit/TBC)
+  - [Analyzing attacks on a honeypot via Microsoft Sentinel](https://github.com/tiffiniffit/MSSIEMLab)
 
 <h2> 📄 Certifications:</h2>
 
