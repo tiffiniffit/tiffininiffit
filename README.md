@@ -7,7 +7,7 @@
 
 <h2> 📄 Certifications:</h2>
 
-- <b></b>
+ <b></b>
   - [CompTIA IT Operations Specialist - CIOS Stackable Certification](https://www.credly.com/badges/67fabda7-421f-42ee-99c6-60c61e31b316/public_url)
   - [CompTIA Network+](https://www.credly.com/badges/5e5ea4db-5d91-4df1-af8d-1d9b4d6f8f25/public_url)
   - [CompTIA A+](https://www.credly.com/badges/7b96a4c6-357c-48ab-af07-e29158a7c880/public_url)
