@@ -3,12 +3,14 @@
 <h2> 👩🏾‍💻 Cybersecurity Projects:</h2>
 
 - <b>SEIM Practice</b>
-  - [Analyzing attacks on a honeypot via Microsoft Sentinel](https://github.com/tiffiniffit/MSSIEMLab)
+  - [Setting up a honeypot and monitoring live attacks with Microsoft Azure Sentinel](https://github.com/tiffiniffit/MSSIEMLab)
 
 <h2> 📄 Certifications:</h2>
 
  <b></b>
-  - [CompTIA IT Operations Specialist - CIOS Stackable Certification](https://www.credly.com/badges/67fabda7-421f-42ee-99c6-60c61e31b316/public_url)
+  - [CompTIA Secure Infrastructure Specialist](https://www.credly.com/badges/90d27750-6cd7-402b-8044-c38735603e57/public_url)
+  - [CompTIA Security+](https://www.credly.com/badges/a62a1efe-a904-424f-9adc-183616f6ac71/public_url)
+  - [CompTIA IT Operations Specialist](https://www.credly.com/badges/67fabda7-421f-42ee-99c6-60c61e31b316/public_url)
   - [CompTIA Network+](https://www.credly.com/badges/5e5ea4db-5d91-4df1-af8d-1d9b4d6f8f25/public_url)
   - [CompTIA A+](https://www.credly.com/badges/7b96a4c6-357c-48ab-af07-e29158a7c880/public_url)
   - [Microsoft Software Development Fundamentals (C#)](https://www.credly.com/badges/7a14e9bf-6410-4612-9eb8-327c3a6b83c6/public_url)
