@@ -10,6 +10,8 @@
 <h2> 📄 Certifications:</h2>
 
  <b></b>
+  - [CompTIA PenTest+](https://www.credly.com/badges/50efc22f-1d48-4e25-abb1-009d23c8591a/public_url)
+  - [CompTIA CySA+](https://www.credly.com/badges/abde65b0-9d4b-4fdd-99f7-58782db79a5b/public_url)
   - [Associate of ISC2 - Passed SSCP Exam](https://www.credly.com/badges/686f95a9-fb0c-486c-8c21-ef93922d8567/public_url)
   - [Linux Professional Institute - Lunix Essentials](https://cs.lpi.org/caf/Xamman/certification/verify/LPI000572967/seclxcgdlx)
   - [CompTIA Secure Infrastructure Specialist](https://www.credly.com/badges/90d27750-6cd7-402b-8044-c38735603e57/public_url)
