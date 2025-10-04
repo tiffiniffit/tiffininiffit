@@ -2,8 +2,12 @@
 
 <h2> 👩🏾‍💻 Cybersecurity Projects and Practice:</h2>
 
-- <b>SEIM Practice</b>
+- <b>Threat Hunting Labs</b>
+  - [Microsoft Defender for Endpoint (MDE) – Threat Simulation & Custom Detection](https://github.com/tiffiniffit/MDE-Threat-Hunting-CaseStudy)
+
+- <b>SEIM Labs</b>
   - [Setting up a honeypot and monitoring live attacks with Microsoft Azure Sentinel](https://github.com/tiffiniffit/MSSIEMLab)
+
 - <b>TryHackMe</b>
   - [TryHackMe Profile - Currently Top 10%](https://tryhackme.com/p/iniffit)
 
